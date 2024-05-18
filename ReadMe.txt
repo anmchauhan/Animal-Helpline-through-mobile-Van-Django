@@ -2,3 +2,4 @@
 Then open the folder in pycharm.
 Then in the terminal window write "python manage.py runserver"
 and then click on the generated port address to view the project. 
+created by Anmol Chauhan, Foram Dalsaniya and Ayushi Gondaliya.
